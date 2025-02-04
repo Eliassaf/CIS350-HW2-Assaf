@@ -10,5 +10,5 @@
 * I have taken multiple cybersecurity classes where I have learned how to ethicaly hack through hands-on coursework.
 * I have taken courses such as 162 and 163 which have helped me become a better programmer in python
 
-![alt text](https://giphy.com/gifs/face-need-put-cF7QqO5DYdft6)
+![alt text](https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif)
 
